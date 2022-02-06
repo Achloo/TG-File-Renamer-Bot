@@ -42,11 +42,6 @@
       "value": "128",
       "required": false
     }
-    "LOG_CHANNEL_OR_UPDATE_CHANNEL": {
-      "description": "Id Of Channel Which You Want To Get The User Notification..",
-      "value": "",
-      "required": false
-    },
   },
   "addons": [
     {
