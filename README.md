@@ -1,21 +1,14 @@
 # tg-filebanner-changer
 
 <p align="center">
-
   <a href="https://github.com/Achloo/TG-Filebanner-Changer-Bot/stargazers">
-
     <img src="https://img.shields.io/github/stars/Achloo/TG-Filebanner-Changer-Bot?style=social">
-
   </a>
-
-  
+ 
 
   <a href="https://github.com/Achloo/TG-Filebanner-Changer-Bot/fork">
-
     <img src="https://img.shields.io/github/forks/Achloo/TG-Filebanner-Changer-Bot?label=Fork&style=social">
-
   </a>  
-
 </p>
 
 ->**An Multi purpose Bot Which Can :-**
