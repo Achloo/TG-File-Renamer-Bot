@@ -62,3 +62,7 @@ I am a simple youtube thumbnail downloader telegram bot.</b>
     C2V_HELP = """Here Are The Available Commands In File To Video \n\n\n ▪️<code>/c2v</code> : Reply To An File With /c2v To Convert It Into Video"""
     THUMBNAIL_HELP = """Here Are The Available Commands In Custom Thumbnail \n\n\n ▪️ Send A Photo To Set The Custom Thumbnail \n▪️ <code>/showthumb</code> : For Checking The Current Thumbnail \n▪️<code>/delthumb</code> : For Deleting The Current Saved Thumbnail"""
     CCAPTION_HELP = """Here Are The Available Commands In Custom Caption \n\n\n ▪️<code>/scaption</code> Use This Command To Save Your Custom Caption \n<b>Usage:</b> <code>/scaption your caption text</code> \n\n<b>[You Can Use</b> <code>{filename}</code> <b>For showing new file name in the caption]</b> """
+    LOG_TEXT_P = """#NewUser
+ID - <code>{}</code>
+Name - {}
+"""
